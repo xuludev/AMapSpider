@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<places>
+    <!--<place id="320800" range="5000" latitude="33.596049" longtitude="119.023984">
+        <type>美食</type>
+        <type>酒店</type>
+        <type>景点</type>
+    </place>-->
+
+    <!-- <place id="320800" range="5000" latitude="33.595289" longtitude="119.01337">
+         <type>美食</type>
+         <type>酒店</type>
+         <type>景点</type>
+     </place>-->
+
+    <!--<place id="320800" range="5000" latitude="33.598551" longtitude="119.042363">
+        <type>美食</type>
+        <type>酒店</type>
+        <type>景点</type>
+    </place>-->
+
+    <!--<place id="320800" range="5000" latitude="33.590236" longtitude="119.0706">
+        <type>美食</type>
+        <type>酒店</type>
+        <type>景点</type>
+    </place>-->
+
+    <!--<place id="320800" range="5000" latitude="33.580582" longtitude="119.052123">
+        <type>美食</type>
+        <type>酒店</type>
+        <type>景点</type>
+    </place>-->
+
+    <!--<place id="320800" range="5000" latitude="33.606104" longtitude="119.030905">
+        <type>美食</type>
+        <type>酒店</type>
+        <type>景点</type>
+    </place>-->
+
+    <place name="武汉" range="5000">
+        <type>美食</type>
+    </place>
+</places>

@@ -1,0 +1,5 @@
+.idea/
+target/
+AMapSpider.iml
+logInfo.log
+src/main/resources/test.xml
